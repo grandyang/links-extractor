@@ -1,4 +1,6 @@
-# Links Extractor - Google Sheets Add-ons (Still in the publishing process under the reivew of Google)
+# Links Extractor - Google Sheets Add-ons 
+
+## (Still in the publishing process under the reivew of Google)
 
 ![Cover](cover.png)
 
