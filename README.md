@@ -1,6 +1,6 @@
 # Links Extractor - Google Sheets Add-ons 
 
-## (Still in the publishing process under the reivew of Google)
+## (Still in the publish process under the reivew of Google, source code will be uploaded once the publish process is done.)
 
 ![Cover](cover.png)
 
