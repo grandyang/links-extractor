@@ -1,6 +1,6 @@
 # Links Extractor - Google Sheets Add-ons 
 
-## (Still in the publish process under the reivew of Google, source code will be uploaded once the publish process is done.)
+## Published on Chrome Web Store, please check this: https://chrome.google.com/webstore/detail/links-extractor/mhafjmjohbgmdabjlbdjnppgljbfkljn
 
 ![Cover](cover.png)
 
