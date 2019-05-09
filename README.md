@@ -1,7 +1,9 @@
 # Links Extractor - Google Sheets Add-ons 
 
-### Published on Chrome Web Store, please check here: 
+### Available on Chrome Web Store: 
 ### https://chrome.google.com/webstore/detail/links-extractor/mhafjmjohbgmdabjlbdjnppgljbfkljn
+
+<br>
 
 ![Cover](cover.png)
 
